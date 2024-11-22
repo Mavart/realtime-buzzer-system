@@ -1,5 +1,7 @@
 # Real-time Buzzer System
 
+![Home View](screenshot/1.png)
+
 A real-time buzzer system built with React, Socket.IO, and Express for interactive quiz games or competitions. The system allows multiple players to compete by buzzing in, with a host controlling the game flow.
 
 ## Features
@@ -82,9 +84,6 @@ The project uses:
 Feel free to submit issues and enhancement requests!
 
 ## Screenshots
-
-### Home View
-![Home View](screenshot/1.png)
 
 ### Host View
 ![Host View](screenshot/2.png)
