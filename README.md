@@ -80,3 +80,11 @@ The project uses:
 ## Contributing
 
 Feel free to submit issues and enhancement requests!
+
+## Screenshots
+
+### Home View
+![Home View](screenshot/1.png)
+
+### Host View
+![Host View](screenshot/2.png)
